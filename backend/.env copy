@@ -1,0 +1,2 @@
+MONGODB_URI = mongodb+srv://Abhaydhiman:Zq2RNaZWRj6gyf2@project.ic336.mongodb.net/
+API_URL = http://localhost:3000/
